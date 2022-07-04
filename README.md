@@ -1,3 +1,3 @@
 # Exploring MLOPs
 
-## Week1
+## Week1: Docker Deployment and Fast API
