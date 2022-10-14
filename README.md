@@ -3,6 +3,6 @@
 ## Learn with Local setup
 
 ### Step1. Learn Docker and Kubernates
-* [Docker and Kubernates fundamental](https://kubernetesacademy.online/courses/fundamentals)
+* [Free Docker and Kubernates fundamental Course](https://kubernetesacademy.online/courses/fundamentals) - 40H
 
 ### Step2. Learn Kubeflow
