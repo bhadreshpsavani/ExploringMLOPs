@@ -1,6 +1,8 @@
 # Exploring MLOPs
 
-## Learn Docker and Kubernates
+## Learn with Local setup
+
+### Step1. Learn Docker and Kubernates
 * [Docker and Kubernates fundamental](https://kubernetesacademy.online/courses/fundamentals)
 
-## Learn Kubeflow
+### Step2. Learn Kubeflow
