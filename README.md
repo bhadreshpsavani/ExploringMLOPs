@@ -1,5 +1,6 @@
 # Exploring MLOPs
 
-## Model Deployment
+## Learn Docker and Kubernates
+* [Docker and Kubernates fundamental](https://kubernetesacademy.online/courses/fundamentals)
 
-### Week1: Docker Deployment and Fast API
+## Learn Kubeflow
